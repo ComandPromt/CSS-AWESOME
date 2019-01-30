@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+</head>
+<body>
+
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+    Abrir ventana modal
+</button>
+
+<!-- Ventana Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title" id="exampleModalLabel">T&iacute;tulo</h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+<div class="modal-body">
+          <form>
+		     <div class="form-group">
+            <label for="message-text" class="col-form-label">Para:</label>
+            <select id="inputState" class="form-control">
+                <option selected>Seleccionar</option>
+
+                <option>Espa&ntilde;ol</option>
+
+                <option>Postugal</option>
+                <option>Francia</option>
+            </select>
+            </div>
+        <div class="form-group">
+        <label for="recipient-name" class="col-form-label">Nombre:</label>
+        <input type="text" class="form-control" id="recipient-name">
+        </div>
+    <div class="form-group">
+        <label for="message-text" class="col-form-label">Mensaje:</label>
+        <textarea class="form-control" id="message-text"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="message-text" class="col-form-label">Acepto la licencia:</label>
+            <input type="checkbox">
+            </div>
+            <div class="form-group">
+                <label for="message-text" class="col-form-label">Acepto la licencia:</label>
+                <img src="a.jpg" alt="ojo" class="img-thumbnail"> <input type="checkbox">
+                </div>
+                <button type="button" class="btn btn-success">Si</button>
+                <button type="button" class="btn btn-danger">No</button>
+        </form>
+
+</div>
+
+<div class="modal-footer">
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+<button type="button" class="btn btn-primary">Aceptar</button>
+</div>
+</div>
+</div>
+</div>
+<script src="jquery-3.3.1.min.js"></script>
+    <script src="bootstrap.min.js"></script>
+</body>
+</html>
