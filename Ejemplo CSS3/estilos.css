@@ -1,0 +1,49 @@
+div{
+    width: 100%;
+    height: 100px;
+    background-image:url(bar.png);
+    background-position:right bottom,left top;
+    background-size:40px 40px;
+    background-repeat:repeat-xy;
+    
+}
+
+a:link{
+    background-color: red;
+}
+a:visited{
+    background-color:blue;
+}
+a:hover{
+    background-color: green;
+}
+a:active{
+    background-color:yellow;
+}
+
+#example2 {
+    width: 100px;
+    height: 100px;
+    box-shadow: 5px 10px #888888;
+    border: 2px solid red;
+    padding: 10px;
+    border-radius:50%;
+}
+
+#example3{
+    width: 50px;
+    height: 50px;
+    background-color: #32cd32;
+    transition: width 3s;
+    transform: rotate(10deg);
+    animation-name:colorchange;
+    animation-duration: 1s;
+}
+@keyframes colorchange{
+    0%{background-color:red;}
+    50%{background-color: green;}
+100%{background-color: blue;}
+}
+#example3:hover{
+    width: 250px;
+}
