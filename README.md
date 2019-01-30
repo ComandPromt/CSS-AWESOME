@@ -21,9 +21,6 @@
 - Controlador de velocidad de vídeo
 [Video Speed Controller](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/28%20-%20Video%20Speed%20Controller)
 
-- Juego Wack A Mole
-[Wack A Mole](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/30%20-%20Whack%20A%20Mole)
-
 - Ventana Modal
 [Ventana Modal](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/Modal)
 
