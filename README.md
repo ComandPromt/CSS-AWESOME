@@ -26,3 +26,6 @@
 
 - Estilo para input file
 [Estilo para input file](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/modificarEstiloInputFile2/modificarEstiloInputFile2)
+
+[Other](https://tympanus.net/Development/HoverEffectIdeas/index2.html)
+[Other](https://tympanus.net/Tutorials/3DHoverEffects/)
