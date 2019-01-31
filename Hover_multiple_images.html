@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        div img{
+            position: absolute;
+            opacity: 0;
+            transition: .4s;
+        }
+        </style>
+</head>
+<body>
+        <div id = "slider">
+                <img alt="imagen1" src = "http://www.circuito.mx/images/Presa_Brockman_01.jpg" />
+                <img alt="imagen2" src = "https://blogdepelusita.files.wordpress.com/2012/06/img201010091724205.jpg?w=590" />
+                <img alt="imagen3" src = "http://www.fincabarcelona-mallorca.com/images/portfolio/actividades-rurales-mallorca.jpg" />
+                <img alt="imagen4" src = "https://lh3.googleusercontent.com/-Njmduuanh-0/UkpT2-GRNkI/AAAAAAAAKtI/AWqIfTWo1DU/s0/photo.jpg" />
+            </div>
+    <script>
+        var div = document.getElementById("slider"),
+            img = div.getElementsByTagName("img"),
+            total = img.length,
+            i = 0,
+            slider = function(){
+                img[i].style.opacity = 0;
+                i = i == total - 1 ? 0 : ++i;
+                img[i].style.opacity = 1;
+            },
+            interval = null;
+         
+        img[i].style.opacity = 1;
+         
+        div.addEventListener("mouseover", function(){
+            slider();
+            interval = setInterval(slider, 1500);
+        }, false);
+         
+        div.addEventListener("mouseout", function(){
+            clearInterval(interval);
+        });
+        </script>
+</body>
+</html>
