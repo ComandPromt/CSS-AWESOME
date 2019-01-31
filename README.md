@@ -26,6 +26,7 @@
 ---
 
 ![Speech Detection](previews/speech_detection.png)
+
 [Speech Detection](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/20%20-%20Speech%20Detection)
 
 ---
@@ -120,6 +121,7 @@
 
 [Black And White](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/B_N)
 
+---
 [Other](https://tympanus.net/Development/HoverEffectIdeas/index2.html)
 
 [Other](https://tympanus.net/Tutorials/3DHoverEffects/)
