@@ -4,6 +4,7 @@
 - Mensajes
 ---
 
+![Mensajes](previews/messages.png)
 [Mensajes](https://github.com/ComandPromt/CSS-JS-AWESOME/blob/master/messages.html)
 
 ---
