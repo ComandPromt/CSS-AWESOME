@@ -1,6 +1,12 @@
 # CSS & JS AWESOME
 
 ---
+- Mensajes
+---
+
+[Mensajes](https://github.com/ComandPromt/CSS-JS-AWESOME/blob/master/messages.html)
+
+---
 - Harlem Shake (texto en movimiento)
 ---
 
