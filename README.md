@@ -5,7 +5,7 @@
 ---
 ![Menu](previews/menu_acordeon.png)
 
-[Mensajes](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/hamburger-slide-accordion-menu)
+[Menu](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/hamburger-slide-accordion-menu)
 
 ---
 # Circle Menu
@@ -54,7 +54,7 @@
 
 ![Tambor](previews/tambor_con_teclas.png)
 
-[Tambor con teclas](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+[Tambor](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 
 ---
 # Reloj en CSS y JS
