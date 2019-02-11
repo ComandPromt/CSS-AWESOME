@@ -1,6 +1,13 @@
 # CSS & JS AWESOME
 
 ---
+# Image Zoom
+---
+![Menu](previews/zoom.png)
+
+[Menu](https://github.com/ComandPromt/CSS-JS-AWESOME/blob/master/Zoom-on-hover.html)
+
+---
 # Menu acordeon
 ---
 ![Menu](previews/menu_acordeon.png)
