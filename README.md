@@ -1,6 +1,20 @@
 # CSS & JS AWESOME
 
 ---
+# CSS Menu
+---
+![Menu](previews/css%20menu.png)
+
+[Menu](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/cssmenu)
+
+---
+# Other Menu
+---
+![Menu](previews/menu_1.png)
+
+[Menu](https://github.com/ComandPromt/CSS-JS-AWESOME/tree/master/ResponsiveMultiLevelMenu)
+
+---
 # Image Zoom
 ---
 ![Menu](previews/zoom.png)
