@@ -187,6 +187,6 @@
 
 ---
 
-[Other](https://tympanus.net/Development/HoverEffectIdeas/index2.html)
+[Other](https://codepen.io/vavik96/pen/MYdBKz)
 
-[Other](https://tympanus.net/Tutorials/3DHoverEffects/)
+[Other](https://tympanus.net/codrops/2012/06/18/3d-thumbnail-hover-effects/)
